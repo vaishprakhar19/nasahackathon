@@ -1,0 +1,45 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  .text-box {
+    font-size: 2rem;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 7px;
+    word-spacing: 12px;
+    text-transform: uppercase;
+    color: rgb(238, 238, 238);
+    display: grid;
+    place-items: center;
+  }
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 2rem;
+    margin-top: 1rem;
+  }
+  .link-uvi {
+    color: #fff;
+    text-decoration: none;
+  }
+  .images
+  {
+    height: 10rem;
+    width: 10rem;
+  }

@@ -1,0 +1,1458 @@
+{
+  "data": [
+    {
+      "branchvalues": "total",
+      "domain": {
+        "x": [
+          0.0,
+          1.0
+        ],
+        "y": [
+          0.0,
+          1.0
+        ]
+      },
+      "hovertemplate": "labels=%{label}<br>Datum=%{value}<br>parent=%{parent}<br>id=%{id}<extra></extra>",
+      "ids": [
+        "USA/AMBA/Failure",
+        "France/Arianespace/Failure",
+        "USA/Boeing/Failure",
+        "China/CASC/Failure",
+        "China/CASIC/Failure",
+        "France/CECLES/Failure",
+        "France/CNES/Failure",
+        "USA/EER/Failure",
+        "France/ESA/Failure",
+        "Russian Federation/Eurockot/Failure",
+        "China/ExPace/Failure",
+        "USA/Exos/Failure",
+        "USA/General Dynamics/Failure",
+        "China/Landspace/Failure",
+        "USA/Lockheed/Failure",
+        "Russian Federation/MITT/Failure",
+        "USA/Martin Marietta/Failure",
+        "USA/NASA/Failure",
+        "USA/Northrop/Failure",
+        "China/OneSpace/Failure",
+        "Russian Federation/RVSN USSR/Failure",
+        "Russian Federation/Roscosmos/Failure",
+        "Russian Federation/SRC/Failure",
+        "USA/Sandia/Failure",
+        "USA/SpaceX/Failure",
+        "USA/US Air Force/Failure",
+        "USA/US Navy/Failure",
+        "Russian Federation/VKS RF/Failure",
+        "USA/Virgin Orbit/Failure",
+        "USA/AMBA/Partial Failure",
+        "France/Arianespace/Partial Failure",
+        "France/Arm??e de l'Air/Partial Failure",
+        "USA/Boeing/Partial Failure",
+        "China/CASC/Partial Failure",
+        "France/ESA/Partial Failure",
+        "USA/Exos/Partial Failure",
+        "USA/General Dynamics/Partial Failure",
+        "USA/Martin Marietta/Partial Failure",
+        "USA/NASA/Partial Failure",
+        "USA/Northrop/Partial Failure",
+        "Russian Federation/RVSN USSR/Partial Failure",
+        "USA/SpaceX/Partial Failure",
+        "USA/ULA/Partial Failure",
+        "USA/US Air Force/Partial Failure",
+        "USA/US Navy/Partial Failure",
+        "Russian Federation/VKS RF/Partial Failure",
+        "USA/SpaceX/Prelaunch Failure",
+        "USA/AMBA/Success",
+        "France/Arianespace/Success",
+        "France/Arm??e de l'Air/Success",
+        "USA/Blue Origin/Success",
+        "USA/Boeing/Success",
+        "China/CASC/Success",
+        "China/CASIC/Success",
+        "France/CNES/Success",
+        "USA/Douglas/Success",
+        "France/ESA/Success",
+        "Russian Federation/Eurockot/Success",
+        "China/ExPace/Success",
+        "USA/General Dynamics/Success",
+        "USA/ILS/Success",
+        "Russian Federation/Khrunichev/Success",
+        "Russian Federation/Kosmotras/Success",
+        "USA/Lockheed/Success",
+        "Russian Federation/MITT/Success",
+        "USA/Martin Marietta/Success",
+        "USA/NASA/Success",
+        "USA/Northrop/Success",
+        "Russian Federation/RVSN USSR/Success",
+        "Russian Federation/Roscosmos/Success",
+        "Russian Federation/SRC/Success",
+        "USA/SpaceX/Success",
+        "USA/ULA/Success",
+        "USA/US Air Force/Success",
+        "USA/US Navy/Success",
+        "Russian Federation/VKS RF/Success",
+        "Russian Federation/Yuzhmash/Success",
+        "China/i-Space/Success",
+        "USA/AMBA",
+        "France/Arianespace",
+        "France/Arm??e de l'Air",
+        "USA/Blue Origin",
+        "USA/Boeing",
+        "China/CASC",
+        "China/CASIC",
+        "France/CECLES",
+        "France/CNES",
+        "USA/Douglas",
+        "USA/EER",
+        "France/ESA",
+        "Russian Federation/Eurockot",
+        "China/ExPace",
+        "USA/Exos",
+        "USA/General Dynamics",
+        "USA/ILS",
+        "Russian Federation/Khrunichev",
+        "Russian Federation/Kosmotras",
+        "China/Landspace",
+        "USA/Lockheed",
+        "Russian Federation/MITT",
+        "USA/Martin Marietta",
+        "USA/NASA",
+        "USA/Northrop",
+        "China/OneSpace",
+        "Russian Federation/RVSN USSR",
+        "Russian Federation/Roscosmos",
+        "Russian Federation/SRC",
+        "USA/Sandia",
+        "USA/SpaceX",
+        "USA/ULA",
+        "USA/US Air Force",
+        "USA/US Navy",
+        "Russian Federation/VKS RF",
+        "USA/Virgin Orbit",
+        "Russian Federation/Yuzhmash",
+        "China/i-Space",
+        "China",
+        "France",
+        "Russian Federation",
+        "USA"
+      ],
+      "labels": [
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Partial Failure",
+        "Prelaunch Failure",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "Success",
+        "AMBA",
+        "Arianespace",
+        "Arm??e de l'Air",
+        "Blue Origin",
+        "Boeing",
+        "CASC",
+        "CASIC",
+        "CECLES",
+        "CNES",
+        "Douglas",
+        "EER",
+        "ESA",
+        "Eurockot",
+        "ExPace",
+        "Exos",
+        "General Dynamics",
+        "ILS",
+        "Khrunichev",
+        "Kosmotras",
+        "Landspace",
+        "Lockheed",
+        "MITT",
+        "Martin Marietta",
+        "NASA",
+        "Northrop",
+        "OneSpace",
+        "RVSN USSR",
+        "Roscosmos",
+        "SRC",
+        "Sandia",
+        "SpaceX",
+        "ULA",
+        "US Air Force",
+        "US Navy",
+        "VKS RF",
+        "Virgin Orbit",
+        "Yuzhmash",
+        "i-Space",
+        "China",
+        "France",
+        "Russian Federation",
+        "USA"
+      ],
+      "name": "",
+      "parents": [
+        "USA/AMBA",
+        "France/Arianespace",
+        "USA/Boeing",
+        "China/CASC",
+        "China/CASIC",
+        "France/CECLES",
+        "France/CNES",
+        "USA/EER",
+        "France/ESA",
+        "Russian Federation/Eurockot",
+        "China/ExPace",
+        "USA/Exos",
+        "USA/General Dynamics",
+        "China/Landspace",
+        "USA/Lockheed",
+        "Russian Federation/MITT",
+        "USA/Martin Marietta",
+        "USA/NASA",
+        "USA/Northrop",
+        "China/OneSpace",
+        "Russian Federation/RVSN USSR",
+        "Russian Federation/Roscosmos",
+        "Russian Federation/SRC",
+        "USA/Sandia",
+        "USA/SpaceX",
+        "USA/US Air Force",
+        "USA/US Navy",
+        "Russian Federation/VKS RF",
+        "USA/Virgin Orbit",
+        "USA/AMBA",
+        "France/Arianespace",
+        "France/Arm??e de l'Air",
+        "USA/Boeing",
+        "China/CASC",
+        "France/ESA",
+        "USA/Exos",
+        "USA/General Dynamics",
+        "USA/Martin Marietta",
+        "USA/NASA",
+        "USA/Northrop",
+        "Russian Federation/RVSN USSR",
+        "USA/SpaceX",
+        "USA/ULA",
+        "USA/US Air Force",
+        "USA/US Navy",
+        "Russian Federation/VKS RF",
+        "USA/SpaceX",
+        "USA/AMBA",
+        "France/Arianespace",
+        "France/Arm??e de l'Air",
+        "USA/Blue Origin",
+        "USA/Boeing",
+        "China/CASC",
+        "China/CASIC",
+        "France/CNES",
+        "USA/Douglas",
+        "France/ESA",
+        "Russian Federation/Eurockot",
+        "China/ExPace",
+        "USA/General Dynamics",
+        "USA/ILS",
+        "Russian Federation/Khrunichev",
+        "Russian Federation/Kosmotras",
+        "USA/Lockheed",
+        "Russian Federation/MITT",
+        "USA/Martin Marietta",
+        "USA/NASA",
+        "USA/Northrop",
+        "Russian Federation/RVSN USSR",
+        "Russian Federation/Roscosmos",
+        "Russian Federation/SRC",
+        "USA/SpaceX",
+        "USA/ULA",
+        "USA/US Air Force",
+        "USA/US Navy",
+        "Russian Federation/VKS RF",
+        "Russian Federation/Yuzhmash",
+        "China/i-Space",
+        "USA",
+        "France",
+        "France",
+        "USA",
+        "USA",
+        "China",
+        "China",
+        "France",
+        "France",
+        "USA",
+        "USA",
+        "France",
+        "Russian Federation",
+        "China",
+        "USA",
+        "USA",
+        "USA",
+        "Russian Federation",
+        "Russian Federation",
+        "China",
+        "USA",
+        "Russian Federation",
+        "USA",
+        "USA",
+        "USA",
+        "China",
+        "Russian Federation",
+        "Russian Federation",
+        "Russian Federation",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "Russian Federation",
+        "USA",
+        "Russian Federation",
+        "China",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "values": [
+        3,
+        7,
+        3,
+        14,
+        2,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        1,
+        37,
+        1,
+        5,
+        1,
+        11,
+        11,
+        7,
+        1,
+        55,
+        1,
+        1,
+        1,
+        4,
+        30,
+        14,
+        4,
+        1,
+        1,
+        3,
+        1,
+        2,
+        6,
+        1,
+        3,
+        11,
+        3,
+        6,
+        2,
+        24,
+        1,
+        1,
+        2,
+        1,
+        6,
+        1,
+        3,
+        267,
+        3,
+        12,
+        131,
+        231,
+        3,
+        6,
+        1,
+        9,
+        12,
+        9,
+        203,
+        40,
+        1,
+        10,
+        74,
+        6,
+        100,
+        186,
+        74,
+        1119,
+        7,
+        2,
+        94,
+        139,
+        129,
+        2,
+        147,
+        1,
+        1,
+        7,
+        277,
+        4,
+        12,
+        136,
+        251,
+        5,
+        1,
+        8,
+        1,
+        1,
+        13,
+        13,
+        10,
+        4,
+        251,
+        40,
+        1,
+        10,
+        1,
+        79,
+        7,
+        114,
+        203,
+        83,
+        1,
+        1198,
+        8,
+        3,
+        1,
+        100,
+        140,
+        161,
+        17,
+        157,
+        1,
+        1,
+        1,
+        269,
+        303,
+        1398,
+        1351
+      ],
+      "type": "sunburst",
+      "marker": {
+        "colors": [
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)",
+          "hsla(29, 62%, 86%, 1)"
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "parcoords": [
+          {
+            "type": "parcoords",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ]
+      },
+      "layout": {
+        "autotypenumbers": "strict",
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "hovermode": "closest",
+        "hoverlabel": {
+          "align": "left"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "ternary": {
+          "bgcolor": "#E5ECF6",
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ]
+        },
+        "xaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "geo": {
+          "bgcolor": "white",
+          "landcolor": "#E5ECF6",
+          "subunitcolor": "white",
+          "showland": true,
+          "showlakes": true,
+          "lakecolor": "white"
+        },
+        "title": {
+          "x": 0.05
+        },
+        "mapbox": {
+          "style": "light"
+        }
+      }
+    },
+    "legend": {
+      "tracegroupgap": 0
+    },
+    "font": {
+      "color": "hsla(29, 62%, 86%, 1)"
+    },
+    "paper_bgcolor": "rgba(0,0,0,0)",
+    "plot_bgcolor": "rgba(0,0,0,0)"
+  }
+}
